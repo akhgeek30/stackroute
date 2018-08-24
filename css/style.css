@@ -1,0 +1,17 @@
+body {	width:500px;
+		margin:auto;
+		background: lightgrey;}
+table{
+	border cellspacing: 2;
+}
+td { border: 1px solid; 
+	border-color: white;
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+#another{padding-left:159px;
+			padding-right:159px;
+		}
